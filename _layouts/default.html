@@ -14,23 +14,23 @@
   </head>
 
   <body>
-    <div id="bar"></div>
+    <!--<div id="bar"></div>-->
     <div class="wrapper-container">
       <div class="wrapper-masthead">
         <div class="container">
           <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" /></a>
+            <!--<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" /></a>-->
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
+              <p class="site-description">{{ site.description }}</p>
             </div>
 
             <nav>
-              <a href="{{ site.baseurl }}/">Home</a>
-              <a href="{{ site.baseurl }}/getting-started">Getting Started</a>
+              {% if site.footer-links.github %}
+                <a href="https://github.com/{{ site.footer-links.github }}">GitHub</a>
+              {% endif %}
               <a href="{{ site.baseurl }}/search">Search</a>
-              <a href="{{ site.baseurl }}/about">About</a>
             </nav>
           </header>
         </div>
@@ -42,6 +42,7 @@
         </div>
       </div>
 
+<!--
       <div class="wrapper-footer">
         <div class="container">
           <footer class="footer">
@@ -50,6 +51,7 @@
         </div>
       </div>
     </div>
+-->
 
     {% include analytics.html %}
   </body>

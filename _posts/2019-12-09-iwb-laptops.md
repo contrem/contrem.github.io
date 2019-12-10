@@ -36,11 +36,13 @@ Laptops I would buy in Q4 2019
 
 ## Cheap Options
 
-[Dell Inspiron 15 5000 15.6-inch Touchscreen FHD Premium Laptop PC, Intel Quad Core i5-8250U Processor, 12GB RAM, 256GB SSD, 1TB Hard Drive, DVD Writer, Backlit Keyboard, Bluetooth, Blue](https://www.amazon.com/Dell-Inspiron-5000-Touchscreen-Quad-Core/dp/B0828W9BLL?tag=contrem-20)
-- **Price: $690**
+Laptops with older hardware that will still be fast enough for the average user.
 
-[2018 Dell Inspiron 15 5000 Flagship Premium 15.6" Full HD Touchscreen Backlit Keyboard Laptop, Intel Core i5-8250U Quad-Core, 12GB DDR4, 1TB HDD, DVD-RW, Bluetooth 4.2, Windows 10, Black](https://www.amazon.com/Dell-Inspiron-5000-Touchscreen-Quad-Core/dp/B07DNVVRPV?tag=contrem-20)
-- **Price: $610**
+[2019 Dell Inspiron 15 5000 5570 15.6" Full HD Touchscreen (1920x1080) Laptop (Intel Quad-Core i5-8250U, 16GB DDR4, 500GB M.2 SSD+1TB HDD) HDMI, 802.11 AC WiFi, Ethernet, Bluetooth, Windows 10 64-bit](https://www.amazon.com/Dell-Inspiron-5000-5570-Laptop/dp/B07N49F51N?tag=contrem-20)
+- **Price: $650**
+
+[Dell Inspiron 15 5000, 2019 15.6" FHD Touchscreen Laptop, Intel 4-Core i5-8265U, 12GB RAM, 256GB PCIe SSD by 16GB Optane, 1TB HDD, Backlit KB Fingerprint Reader MaxxAudio Win 10/Accessories Bundle](https://www.amazon.com/Dell-Inspiron-Touchscreen-Fingerprint-Accessories/dp/B07WTZC3JS?tag=contrem-20)
+- **Price: $590**
 
 [Dell Inspiron 15 Intel Core i3-7130U 8GB 1TB HDD 15.6" HD LED Windows 10 Laptop](https://www.amazon.com/Dell-Inspiron-i3-7130U-Windows-Laptop/dp/B07GKZJ8CX?tag=contrem-20)
 - **Price: $380**

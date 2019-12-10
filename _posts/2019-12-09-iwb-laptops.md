@@ -36,6 +36,12 @@ Laptops I would buy in Q4 2019
 
 ## Cheap Options
 
+[2019 Dell Inspiron 14" Laptop Computer| 10th Gen Intel Quad-Core i5 1035G4 Up to 3.7GHz| 16GB DDR4 RAM| 512GB PCIe SSD| Intel UHD Graphics| 802.11ac WiFi| Bluetooth 4.1| USB 3.1| HDMI| Windows 10](https://www.amazon.com/Dell-Inspiron-14-Quad-Core-Bluetooth/dp/B081Q3BTX1?tag=contrem-20)
+- **Price: $530**
+
+[2019 Dell Inspiron 14" Laptop Computer| 10th Gen Intel Quad-Core i5 1035G4 Up to 3.7GHz| 4GB DDR4 RAM| 128GB PCIe SSD| Intel UHD Graphics| 802.11ac WiFi| Bluetooth 4.1| USB 3.1| HDMI| Windows 10](https://www.amazon.com/Dell-Inspiron-14-Quad-Core-Bluetooth/dp/B081Q3DXD4?tag=contrem-20)
+- **Price: $330**
+
 Laptops with older hardware that will still be fast enough for the average user.
 
 [2019 Dell Inspiron 15 5000 5570 15.6" Full HD Touchscreen (1920x1080) Laptop (Intel Quad-Core i5-8250U, 16GB DDR4, 500GB M.2 SSD+1TB HDD) HDMI, 802.11 AC WiFi, Ethernet, Bluetooth, Windows 10 64-bit](https://www.amazon.com/Dell-Inspiron-5000-5570-Laptop/dp/B07N49F51N?tag=contrem-20)
